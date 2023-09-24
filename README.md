@@ -32,3 +32,22 @@ UCI-VIRT-FSF-PT-06-2023-U-LOLC</a>.
     <img src="https://img.shields.io/badge/mySQL-blue"  />
     <img src="https://img.shields.io/badge/dotenv-green" />
 </p>
+
+<!-- TABLE OF CONTENTS -->
+
+## Table of Contents
+
+- [Mock-up](#mock-up)
+
+
+## Mock-up
+
+The following animation shows the application's GET routes to return all categories, all products, and all tags being tested in Insomnia:
+
+![screenshot](https://git.bootcampcontent.com/University-of-California---Irvine/UCI-VIRT-FSF-PT-06-2023-U-LOLC/-/raw/main/13-ORM/02-Challenge/Assets/13-orm-homework-demo-01.gif)
+
+The following animation shows the application's GET routes to return a single category, a single product, and a single tag being tested in Insomnia:
+![screenshot](https://git.bootcampcontent.com/University-of-California---Irvine/UCI-VIRT-FSF-PT-06-2023-U-LOLC/-/raw/main/13-ORM/02-Challenge/Assets/13-orm-homework-demo-02.gif)
+
+The following animation shows the application's POST, PUT, and DELETE routes for categories being tested in Insomnia:
+![screenshot](https://git.bootcampcontent.com/University-of-California---Irvine/UCI-VIRT-FSF-PT-06-2023-U-LOLC/-/raw/main/13-ORM/02-Challenge/Assets/13-orm-homework-demo-03.gif)
