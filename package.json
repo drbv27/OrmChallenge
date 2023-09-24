@@ -1,7 +1,7 @@
 {
   "name": "orm",
   "version": "1.0.0",
-  "description": "<h1 align=\"center\">Object-Relational Mapping (ORM): E-Commerce Back End 👋</h1>",
+  "description": "<h1 align=\"center\">Object-Relational Mapping (ORM): E-Commerce Back End</h1>",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/jpd61/e-commerce-backend.git"
+    "url": "git+ssh://git@github.com/drbv/OrmChallenge"
   },
   "keywords": [],
-  "author": "Joseph DeWoody",
+  "author": "",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.3"
@@ -26,7 +26,7 @@
     "sequelize": "^5.22.5"
   },
   "bugs": {
-    "url": "https://github.com/jpd61/e-commerce-backend/issues"
+    "url": "https://github.com/drbv27/OrmChallenge/issues"
   },
-  "homepage": "https://github.com/jpd61/e-commerce-backend#readme"
+  "homepage": "https://github.com/drbv27/OrmChallenge#readme"
 }
